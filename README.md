@@ -6,5 +6,5 @@ Self-training with Noisy Student improves ImageNet classification
 
 原文连接：https://arxiv.org/abs/1911.04252
 
-欢迎指正，转发，讨论
+欢迎指正，转发，讨论  
 转发请注明出处
